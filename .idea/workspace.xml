@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21c1ec6f-bfab-4471-b97f-7c8d9ec4e4ab" name="Default" comment="" />
+    <list default="true" id="21c1ec6f-bfab-4471-b97f-7c8d9ec4e4ab" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/18_helloworld.py" afterPath="$PROJECT_DIR$/Section5_TheBasicsOfPython/18_helloworld.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/19_helloworld.py" afterPath="$PROJECT_DIR$/Section5_TheBasicsOfPython/19_helloworld.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/22.py" afterPath="$PROJECT_DIR$/Section5_TheBasicsOfPython/22.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/23_storing_items_in_vars.py" afterPath="$PROJECT_DIR$/Section5_TheBasicsOfPython/23_storing_items_in_vars.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/24_more_about_var_and_str.py" afterPath="$PROJECT_DIR$/Section5_TheBasicsOfPython/24_more_about_var_and_str.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/25_string_formatting.py" afterPath="$PROJECT_DIR$/Section5_TheBasicsOfPython/25_string_formatting.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/27_intro_to_program_flow.py" afterPath="$PROJECT_DIR$/Section6_ProgramFlowControlInPython/27_intro_to_program_flow.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/28_test_condition_if_elif_else.py" afterPath="$PROJECT_DIR$/Section6_ProgramFlowControlInPython/28_test_condition_if_elif_else.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/29_more_advanced_if_else.py" afterPath="$PROJECT_DIR$/Section6_ProgramFlowControlInPython/29_more_advanced_if_else.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/30_challenge_if_else.py" afterPath="$PROJECT_DIR$/Section6_ProgramFlowControlInPython/30_challenge_if_else.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/31_for_loops.py" afterPath="$PROJECT_DIR$/Section6_ProgramFlowControlInPython/31_for_loops.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,6 +29,7 @@
     <SUITE FILE_PATH="coverage/python_course_udemy$22.coverage" NAME="22 Coverage Results" MODIFIED="1482340784732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_course_udemy$27_intro_to_program_flow.coverage" NAME="27_intro_to_program_flow Coverage Results" MODIFIED="1482825908830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_course_udemy$19_helloworld.coverage" NAME="19_helloworld Coverage Results" MODIFIED="1482340399799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-course-udemy$31_for_loops.coverage" NAME="31_for_loops Coverage Results" MODIFIED="1483686369034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_course_udemy$25_string_formatting.coverage" NAME="25_string_formatting Coverage Results" MODIFIED="1482825797740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_course_udemy$18_helloworld.coverage" NAME="18_helloworld Coverage Results" MODIFIED="1482340154491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_course_udemy$23_storing_items_in_vars.coverage" NAME="23_storing_items_in_vars Coverage Results" MODIFIED="1482341233241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -33,7 +47,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="28_test_condition_if_elif_else.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/28_test_condition_if_elif_else.py">
+        <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/28_test_condition_if_elif_else.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
@@ -43,7 +57,7 @@
         </entry>
       </file>
       <file leaf-file-name="29_more_advanced_if_else.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/29_more_advanced_if_else.py">
+        <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/29_more_advanced_if_else.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="486">
               <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
@@ -53,7 +67,7 @@
         </entry>
       </file>
       <file leaf-file-name="30_challenge_if_else.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/30_challenge_if_else.py">
+        <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/30_challenge_if_else.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
               <caret line="12" column="63" lean-forward="false" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
@@ -63,10 +77,10 @@
         </entry>
       </file>
       <file leaf-file-name="31_for_loops.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/31_for_loops.py">
+        <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/31_for_loops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="162">
+              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -144,22 +158,50 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="python_course_udemy" />
+              <option name="myItemId" value="python-course-udemy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="python_course_udemy" />
+              <option name="myItemId" value="python-course-udemy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-course-udemy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-course-udemy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Section6_ProgramFlowControlInPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-course-udemy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-course-udemy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Section5_TheBasicsOfPython" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,6 +210,12 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Section6_ProgramFlowControlInPython" />
+      <recent name="$PROJECT_DIR$/Section5_TheBasicsOfPython" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.31_for_loops">
     <configuration default="false" name="27_intro_to_program_flow" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -183,7 +231,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_course_udemy" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27_intro_to_program_flow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section6_ProgramFlowControlInPython/27_intro_to_program_flow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -201,7 +249,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_course_udemy" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28_test_condition_if_elif_else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section6_ProgramFlowControlInPython/28_test_condition_if_elif_else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -219,7 +267,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_course_udemy" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_more_advanced_if_else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section6_ProgramFlowControlInPython/29_more_advanced_if_else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -237,7 +285,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_course_udemy" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30_challenge_if_else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section6_ProgramFlowControlInPython/30_challenge_if_else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -255,7 +303,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_course_udemy" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/31_for_loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section6_ProgramFlowControlInPython/31_for_loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -925,6 +973,8 @@
       <workItem from="1482339768207" duration="2100000" />
       <workItem from="1482824679136" duration="3505000" />
       <workItem from="1483685444368" duration="750000" />
+      <workItem from="1483686364530" duration="35000" />
+      <workItem from="1483686998786" duration="255000" />
     </task>
     <task id="LOCAL-00001" summary="first commit up to lec 31">
       <created>1483685651521</created>
@@ -937,7 +987,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6355000" />
+    <option name="totallyTimeSpent" value="6645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="25" width="1924" height="1036" extended-state="6" />
@@ -992,7 +1042,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/28_test_condition_if_elif_else.py">
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/28_test_condition_if_elif_else.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
@@ -1000,7 +1050,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/29_more_advanced_if_else.py">
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/29_more_advanced_if_else.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
@@ -1008,7 +1058,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/30_challenge_if_else.py">
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/30_challenge_if_else.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="63" lean-forward="false" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
@@ -1016,7 +1066,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/31_for_loops.py">
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/31_for_loops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1024,23 +1074,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/23_storing_items_in_vars.py">
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/28_test_condition_if_elif_else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/29_more_advanced_if_else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/30_challenge_if_else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="63" lean-forward="false" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/31_for_loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/28_test_condition_if_elif_else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/29_more_advanced_if_else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/30_challenge_if_else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="63" lean-forward="false" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/31_for_loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section5_TheBasicsOfPython/23_storing_items_in_vars.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/24_more_about_var_and_str.py">
+    <entry file="file://$PROJECT_DIR$/Section5_TheBasicsOfPython/24_more_about_var_and_str.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/18_helloworld.py">
+    <entry file="file://$PROJECT_DIR$/Section5_TheBasicsOfPython/18_helloworld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
@@ -1048,14 +1160,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/22.py" />
-    <entry file="file://$PROJECT_DIR$/19_helloworld.py">
+    <entry file="file://$PROJECT_DIR$/Section5_TheBasicsOfPython/19_helloworld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22.py">
+    <entry file="file://$PROJECT_DIR$/Section5_TheBasicsOfPython/22.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
@@ -1066,44 +1178,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-15338">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/23_storing_items_in_vars.py">
+    <entry file="file://$PROJECT_DIR$/Section5_TheBasicsOfPython/23_storing_items_in_vars.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/24_more_about_var_and_str.py">
+    <entry file="file://$PROJECT_DIR$/Section5_TheBasicsOfPython/24_more_about_var_and_str.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/25_string_formatting.ipynb" />
-    <entry file="file://$PROJECT_DIR$/25_string_formatting.py">
+    <entry file="file://$PROJECT_DIR$/Section5_TheBasicsOfPython/25_string_formatting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/27_intro_to_program_flow.py">
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/27_intro_to_program_flow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="60" lean-forward="false" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/28_test_condition_if_elif_else.py">
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/28_test_condition_if_elif_else.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
@@ -1111,7 +1218,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/29_more_advanced_if_else.py">
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/29_more_advanced_if_else.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
@@ -1119,7 +1226,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/30_challenge_if_else.py">
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/30_challenge_if_else.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="63" lean-forward="false" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
@@ -1127,10 +1234,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/31_for_loops.py">
+    <entry file="file://$PROJECT_DIR$/Section6_ProgramFlowControlInPython/31_for_loops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding />
         </state>
       </provider>
